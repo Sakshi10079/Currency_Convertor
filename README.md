@@ -15,7 +15,10 @@ A simple **Currency Converter** built using **HTML, CSS, and JavaScript**. Conve
 - **HTML** – Structure  
 - **CSS** – Styling  
 - **JavaScript** – Fetching API & logic  
-- **Exchange Rate API** – For real-time currency data  
+- **Exchange Rate API** – For real-time currency data
+
+  ## 📸 Demo Screenshot  
+![Screenshot (3)](https://github.com/user-attachments/assets/4ce83c09-9024-463d-8b60-b149c50ea7c9)
 
 ## 🎯 How to Use?  
 1. Select the **source currency** and **target currency**  
